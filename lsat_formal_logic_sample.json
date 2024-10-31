@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Swipe up to get started.\nIf you can not swipe, you have completed all questions, wait for an update pls",
+        "answer": "This is how you get to an answer",
+        "translation": "P \u2192 L"
+    },
+    {
+        "question": "Without a degree, you cannot apply for the job.",
+        "answer": "If you apply for the job, then you have a degree.",
+        "translation": "A \u2192 D"
+    },
+    {
+        "question": "Only students with a valid ID can enter the library.",
+        "answer": "If a student enters the library, then they have a valid ID.",
+        "translation": "E \u2192 I"
+    },
+    {
+        "question": "To win the game, the team must score at least 10 points.",
+        "answer": "If the team wins the game, they scored at least 10 points.",
+        "translation": "W \u2192 S"
+    },
+    {
+        "question": "No one can graduate without completing the final project.",
+        "answer": "If someone graduates, then they completed the final project.",
+        "translation": "G \u2192 C"
+    },
+    {
+        "question": "Rahul cannot go on vacation unless he finishes the report.",
+        "answer": "If Rahul goes on vacation, then he has finished the report.",
+        "translation": "V \u2192 F"
+    },
+    {
+        "question": "People who exercise regularly tend to live longer.",
+        "answer": "If a person lives longer, then they exercise regularly.",
+        "translation": "L \u2192 E"
+    },
+    {
+        "question": "You cannot receive financial aid without submitting the application on time.",
+        "answer": "If you receive financial aid, then you submitted the application on time.",
+        "translation": "F \u2192 S"
+    },
+    {
+        "question": "To be eligible for a scholarship, a student must have good grades and community service experience.",
+        "answer": "If a student is eligible for a scholarship, then they have good grades and community service experience.",
+        "translation": "S \u2192 (G \u2227 C)"
+    },
+    {
+        "question": "Unless you study hard, you will not pass the exam.",
+        "answer": "If you pass the exam, then you studied hard.",
+        "translation": "P \u2192 S"
+    }
+]
